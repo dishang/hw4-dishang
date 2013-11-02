@@ -1,0 +1,20 @@
+qid=1	rel=99	Classical music is dying
+qid=1	rel=0	Pop music has absorbed influences from most other genres of popular music
+qid=1	rel=1	Classical music may never be the most popular music
+qid=1	rel=0	Everybody knows classical music when they hear it
+qid=2	rel=99	Energy plays an important role in climate change
+qid=2	rel=0	Old wine and friends improve with age
+qid=2	rel=0	With clothes the new are the best, with friends the old are the best
+qid=2	rel=1	Climate change and energy use are two sides of the same coin.
+qid=3	rel=99	One's best friend is oneself
+qid=3	rel=1	The best mirror is an old friend
+qid=3	rel=0	My best friend is the one who brings out the best in me
+qid=3	rel=0	The best antiques are old friends
+qid=4	rel=99	The shortest distance between new friends is a smile
+qid=4	rel=0	Wear a smile and have friends; wear a scowl and have wrinkles
+qid=4	rel=1	If you see a friend without a smile, give him one of yours
+qid=4	rel=0	Behind every girls smile is a best friend who put it there
+qid=5	rel=99	It takes a long time to grow an old friend
+qid=5	rel=0	Old wine and friends improve with age
+qid=5	rel=0	With clothes the new are the best, with friends the old are the best
+qid=5	rel=1	Old friends are best
