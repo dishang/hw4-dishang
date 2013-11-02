@@ -115,4 +115,8 @@
 			</plugin>
 		</plugins>
 	</build>
+	<scm>
+		<connection>scm:git:git@github.com:dishang/hw4-dishang.git</connection>
+		<developerConnection>scm:git:git@github.com:dishang/hw4-dishang.git</developerConnection>
+	</scm>
 </project>
